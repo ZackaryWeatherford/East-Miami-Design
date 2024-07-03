@@ -1,0 +1,11 @@
+
+.room-article{
+    background-color: #e4e4e4;
+    padding: 1rem;
+    padding-bottom: 3rem;
+    transition: 150ms;
+}
+
+.room-article:hover{
+    transform: scale(1.1);
+}
